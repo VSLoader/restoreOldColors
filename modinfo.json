@@ -1,0 +1,7 @@
+{
+    "Name": "restoreoldcolors",
+    "ID": "restoreoldcolors",
+    "Version": "1.0.0",
+    "Description": "restores the old lane colors in vivid/stasis",
+    "Dependencies": []
+}
